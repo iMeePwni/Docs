@@ -1,4 +1,8 @@
 # Address Verification
+# Electrical Panel
+# Supply Lines
+# Water Heater
+# Hazards
 # Front Elevation
 # Right Elevation
 # Back Elevation
